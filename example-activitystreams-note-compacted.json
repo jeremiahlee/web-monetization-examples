@@ -1,0 +1,65 @@
+{
+	"@id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638",
+	"@type": "https://www.w3.org/ns/activitystreams#Note",
+	"http://ostatus.org#atomUri": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638",
+	"http://ostatus.org#conversation": "tag:mastodon.social,2024-11-26:objectId=857543565:objectType=Conversation",
+	"https://interledger.org/ns#WalletAddress": {
+		"@id": "https://fynbos.me/jeremiah"
+	},
+	"https://www.w3.org/ns/activitystreams#attachment": [],
+	"https://www.w3.org/ns/activitystreams#attributedTo": {
+		"@id": "https://mastodon.social/users/jeremiahtest"
+	},
+	"https://www.w3.org/ns/activitystreams#cc": {
+		"@id": "https://mastodon.social/users/jeremiahtest/followers"
+	},
+	"https://www.w3.org/ns/activitystreams#content": [
+		"<p>When you go viral, you should get paid. <a href=\"https://webmonetization.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">webmonetization.org/</span><span class=\"invisible\"></span></a></p>",
+		{
+			"@language": "en",
+			"@value": "<p>When you go viral, you should get paid. <a href=\"https://webmonetization.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">webmonetization.org/</span><span class=\"invisible\"></span></a></p>"
+		}
+	],
+	"https://www.w3.org/ns/activitystreams#likes": {
+		"@id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/likes",
+		"@type": "https://www.w3.org/ns/activitystreams#Collection",
+		"https://www.w3.org/ns/activitystreams#totalItems": {
+			"@type": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+			"@value": 0
+		}
+	},
+	"https://www.w3.org/ns/activitystreams#published": {
+		"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+		"@value": "2024-11-26T09:24:53Z"
+	},
+	"https://www.w3.org/ns/activitystreams#replies": {
+		"@id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/replies",
+		"@type": "https://www.w3.org/ns/activitystreams#Collection",
+		"https://www.w3.org/ns/activitystreams#first": {
+			"@type": "https://www.w3.org/ns/activitystreams#CollectionPage",
+			"https://www.w3.org/ns/activitystreams#items": [],
+			"https://www.w3.org/ns/activitystreams#next": {
+				"@id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/replies?only_other_accounts=true&page=true"
+			},
+			"https://www.w3.org/ns/activitystreams#partOf": {
+				"@id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/replies"
+			}
+		}
+	},
+	"https://www.w3.org/ns/activitystreams#sensitive": false,
+	"https://www.w3.org/ns/activitystreams#shares": {
+		"@id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/shares",
+		"@type": "https://www.w3.org/ns/activitystreams#Collection",
+		"https://www.w3.org/ns/activitystreams#totalItems": {
+			"@type": "http://www.w3.org/2001/XMLSchema#nonNegativeInteger",
+			"@value": 0
+		}
+	},
+	"https://www.w3.org/ns/activitystreams#tag": [],
+	"https://www.w3.org/ns/activitystreams#to": {
+		"@id": "https://www.w3.org/ns/activitystreams#Public"
+	},
+	"https://www.w3.org/ns/activitystreams#url": {
+		"@id": "https://mastodon.social/@jeremiahtest/113548531702598638"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"@context": [
+		"https://www.w3.org/ns/activitystreams",
+		{
+			"ostatus": "http://ostatus.org#",
+			"atomUri": "ostatus:atomUri",
+			"inReplyToAtomUri": "ostatus:inReplyToAtomUri",
+			"conversation": "ostatus:conversation",
+			"sensitive": "as:sensitive",
+			"toot": "http://joinmastodon.org/ns#",
+			"votersCount": "toot:votersCount",
+			"monetization": {
+				"@id": "https://interledger.org/ns#WalletAddress",
+				"@type": "@id"
+			}
+		}
+	],
+	"id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638",
+	"type": "Note",
+	"summary": null,
+	"inReplyTo": null,
+	"published": "2024-11-26T09:24:53Z",
+	"url": "https://mastodon.social/@jeremiahtest/113548531702598638",
+	"attributedTo": "https://mastodon.social/users/jeremiahtest",
+	"monetization": "https://fynbos.me/jeremiah",
+	"to": [
+		"https://www.w3.org/ns/activitystreams#Public"
+	],
+	"cc": [
+		"https://mastodon.social/users/jeremiahtest/followers"
+	],
+	"sensitive": false,
+	"atomUri": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638",
+	"inReplyToAtomUri": null,
+	"conversation": "tag:mastodon.social,2024-11-26:objectId=857543565:objectType=Conversation",
+	"content": "<p>When you go viral, you should get paid. <a href=\"https://webmonetization.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">webmonetization.org/</span><span class=\"invisible\"></span></a></p>",
+	"contentMap": {
+		"en": "<p>When you go viral, you should get paid. <a href=\"https://webmonetization.org/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">webmonetization.org/</span><span class=\"invisible\"></span></a></p>"
+	},
+	"attachment": [],
+	"tag": [],
+	"replies": {
+		"id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/replies",
+		"type": "Collection",
+		"first": {
+			"type": "CollectionPage",
+			"next": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/replies?only_other_accounts=true&page=true",
+			"partOf": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/replies",
+			"items": []
+		}
+	},
+	"likes": {
+		"id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/likes",
+		"type": "Collection",
+		"totalItems": 0
+	},
+	"shares": {
+		"id": "https://mastodon.social/users/jeremiahtest/statuses/113548531702598638/shares",
+		"type": "Collection",
+		"totalItems": 0
+	}
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:podcast="https://podcastindex.org/namespace/1.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<atom:link rel="self" href="https://podcast.interledger.org/@futuremoneypodcast/feed.xml" type="application/rss+xml"/>
+		<atom:link rel="monetization" href="https://wallet.example.com/futuremoneypodcast"/>
+		<podcast:funding url="https://wallet.example.com/futuremoneypodcast">Support the show!</podcast:funding>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com/" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://websubhub.com/hub" type="application/rss+xml"/>
+		<atom:link rel="hub" href="https://switchboard.p3k.io/" type="application/rss+xml"/>
+		<itunes:new-feed-url>https://podcast.interledger.org/@futuremoneypodcast/feed.xml</itunes:new-feed-url>
+		<lastBuildDate>Mon, 18 Nov 2024 15:22:19 +0000</lastBuildDate>
+		<generator>Castopod - https://castopod.org/</generator>
+		<podcast:guid>8082d3a6-5257-5867-9553-6d850fe7d7d7</podcast:guid>
+		<title>Future Money</title>
+		<description><![CDATA[<p>Interledger Foundation presents <strong>The FUTURE|MONEY (F|M) Podcast</strong>, We invite people of all backgrounds and disciplines to challenge the status quo and provoke new ways of thinking about what digital financial futures are possible.</p>]]></description>
+		<podcast:medium>podcast</podcast:medium>
+		<itunes:image href="https://s3.castopod.cloud/cd52ca4416ac42b2307205c73b2ae1644/podcasts/futuremoneypodcast/cover_feed.jpeg"/>
+		<language>en</language>
+		<podcast:locked owner="lawil@interledger.org">yes</podcast:locked>
+		<podcast:previousUrl>https://feeds.acast.com/public/shows/64be6f268101990011d37d66</podcast:previousUrl>
+		<podcast:social priority="1" platform="castopod" protocol="activitypub" accountId="@futuremoneypodcast@podcast.interledger.org" accountUrl="https://podcast.interledger.org/@futuremoneypodcast"/>
+		<itunes:category text="Business">
+			<itunes:category text="Non-Profit"/>
+		</itunes:category>
+		<category>Business</category>
+		<category>Non-Profit</category>
+		<itunes:category text="Technology"/>
+		<category>Technology</category>
+		<itunes:category text="Arts">
+			<itunes:category text="Visual Arts"/>
+		</itunes:category>
+		<category>Arts</category>
+		<category>Visual Arts</category>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:author>Interledger Foundation</itunes:author>
+		<link>https://podcast.interledger.org/@futuremoneypodcast</link>
+		<itunes:owner>
+			<itunes:name>Interledger Foundation</itunes:name>
+			<itunes:email>lawil@interledger.org</itunes:email>
+		</itunes:owner>
+		<itunes:type>episodic</itunes:type>
+		<copyright>Interledger Foundation</copyright>
+		<image>
+			<url>https://s3.castopod.cloud/cd52ca4416ac42b2307205c73b2ae1644/podcasts/futuremoneypodcast/cover_feed.jpeg</url>
+			<title>Future Money</title>
+			<link>https://podcast.interledger.org/@futuremoneypodcast</link>
+		</image>
+		<item>
+			<title>Reimagine global payments with the creators of the Interledger</title>
+			<enclosure url="https://op3.dev/e,pg=8082d3a6-5257-5867-9553-6d850fe7d7d7/podcast.interledger.org/audio/@futuremoneypodcast/reimagine-global-payments-with-the-creators-of-the-interledger.mp3" length="66160190" type="audio/mpeg"/>
+			<guid>https://podcast.interledger.org/@futuremoneypodcast/episodes/reimagine-global-payments-with-the-creators-of-the-interledger</guid>
+			<pubDate>Thu, 24 Oct 2024 10:00:00 +0000</pubDate>
+			<atom:link rel="monetization" href="https://wallet.example.com/futuremoneypodcast"/>
+			<atom:link rel="monetization" href="https://wallet.example.com/stefan"/>
+			<atom:link rel="monetization" href="https://wallet.example.com/evan"/>
+			<podcast:location geo="geo:39.7837304,-100.445882" osm="R148838">USA</podcast:location>
+			<description><![CDATA[<p>In this Future Money Podcast episode, host Sabine Schaller converses with Stefan Thomas and Evan Schwartz, the Interledger Protocol (ILP) co-creators. …]]></description>
+			<itunes:duration>2757</itunes:duration>
+			<link>https://podcast.interledger.org/@futuremoneypodcast/episodes/reimagine-global-payments-with-the-creators-of-the-interledger</link>
+			<itunes:image href="https://s3.castopod.cloud/cd52ca4416ac42b2307205c73b2ae1644/podcasts/futuremoneypodcast/reimagine-global-payments-with-the-creators-of-the-interledger_feed.png"/>
+			<itunes:episode>14</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+			<podcast:season>1</podcast:season>
+			<podcast:episode>14</podcast:episode>
+			<podcast:comments uri="https://podcast.interledger.org/@futuremoneypodcast/episodes/reimagine-global-payments-with-the-creators-of-the-interledger/comments" contentType="application/podcast-activity+json"/>
+			<podcast:socialInteract uri="https://podcast.interledger.org/@futuremoneypodcast/posts/bfe2c933-564f-4e26-a48c-a244aee76e00" priority="1" platform="castopod" protocol="activitypub" accountId="@futuremoneypodcast@podcast.interledger.org" pubDate="2024-10-24T10:00:00+0000"/>
+			<podcast:person role="Host" group="Cast" img="https://podcast.interledger.org/castopod-avatar_medium.webp" href="https://www.linkedin.com/in/sabineschaller/">Sabine Shaller</podcast:person>
+		</item>
+		<podcast:trailer pubdate="Thu, 07 Sep 2023 13:19:42 +0000" url="https://op3.dev/e,pg=8082d3a6-5257-5867-9553-6d850fe7d7d7/podcast.interledger.org/audio/@futuremoneypodcast/trailer-future-money-podcast-jcpog.mp3" length="1127533" type="audio/mpeg" season="1">Trailer Future|Money Podcast</podcast:trailer>
+	</channel>
+</rss>

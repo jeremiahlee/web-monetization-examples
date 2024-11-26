@@ -1,0 +1,17 @@
+{
+	"@context": {
+		"interledger": "https://interledger.org/ns#",
+		"schema": "http://schema.org/",
+
+		"id": "@id",
+		"assetCode": "schema:currency",
+		"assetScale": "schema:Integer",
+		"authServer": "schema:URL",
+		"publicName": "schema:Text",
+		"resourceServer": "schema:URL",
+		"WalletAddress": {
+			"@id": "interledger:WalletAddress",
+			"@type": "@id"
+		}
+	}
+}

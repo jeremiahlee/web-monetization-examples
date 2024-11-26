@@ -1,0 +1,99 @@
+{
+		"@context": [
+			"https://www.w3.org/ns/activitystreams",
+			"https://w3id.org/security/v1",
+			{
+				"manuallyApprovesFollowers": "as:manuallyApprovesFollowers",
+				"toot": "http://joinmastodon.org/ns#",
+				"featured": {
+					"@id": "toot:featured",
+					"@type": "@id"
+				},
+				"featuredTags": {
+					"@id": "toot:featuredTags",
+					"@type": "@id"
+				},
+				"alsoKnownAs": {
+					"@id": "as:alsoKnownAs",
+					"@type": "@id"
+				},
+				"movedTo": {
+					"@id": "as:movedTo",
+					"@type": "@id"
+				},
+				"schema": "http://schema.org#",
+				"PropertyValue": "schema:PropertyValue",
+				"value": "schema:value",
+				"discoverable": "toot:discoverable",
+				"suspended": "toot:suspended",
+				"memorial": "toot:memorial",
+				"indexable": "toot:indexable",
+				"attributionDomains": {
+					"@id": "toot:attributionDomains",
+					"@type": "@id"
+				},
+				"focalPoint": {
+					"@container": "@list",
+					"@id": "toot:focalPoint"
+				},
+				"WalletAddress": {
+					"@id": "interledger:WalletAddress",
+					"@type": "@id"
+				}
+			}
+		],
+		"id": "https://mastodon.social/users/jeremiahtest",
+		"type": "Person",
+		"monetization": "https://fynbos.me/jeremiah",
+		"following": "https://mastodon.social/users/jeremiahtest/following",
+		"followers": "https://mastodon.social/users/jeremiahtest/followers",
+		"inbox": "https://mastodon.social/users/jeremiahtest/inbox",
+		"outbox": "https://mastodon.social/users/jeremiahtest/outbox",
+		"featured": "https://mastodon.social/users/jeremiahtest/collections/featured",
+		"featuredTags": "https://mastodon.social/users/jeremiahtest/collections/tags",
+		"preferredUsername": "jeremiahtest",
+		"name": "J. Experimental Lee",
+		"summary": "<p>Just testing the incredible flagship server running the nightly builds. Follow <span class=\"h-card\" translate=\"no\"><a href=\"https://alpaca.gold/@Jeremiah\" class=\"u-url mention\">@<span>Jeremiah</span></a></span> for the real me.</p>",
+		"url": "https://mastodon.social/@jeremiahtest",
+		"manuallyApprovesFollowers": false,
+		"discoverable": false,
+		"indexable": false,
+		"published": "2023-07-28T00:00:00Z",
+		"memorial": false,
+		"publicKey": {
+			"id": "https://mastodon.social/users/jeremiahtest#main-key",
+			"owner": "https://mastodon.social/users/jeremiahtest",
+			"publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA16fdUe/SxwEffyDN7ql1\nW5jp3Yz5l+nvLWFxoy5HH+BpbogsvrMjGLojrorqW705lqq6GfUS66I/YETVHvgC\nz0yb3fj95vvCw2JW0lbvaYZAU1636SoaPEP8PAZfbtUgRjdGZtVGqFMXruEAjQMI\nYij5VnSWNGgZ1dKAt171+HX2zg/KteboyM8okw3+nzY7+3Jw2PsHynqeTVG1P89M\niO/cYJvhft9komQ23TY6m6qLu9WrakaJ311aQAouayyI2ht1gVJdXwFxTPA/cnn2\nd8UL3Tu8nzXJYPSGEqHn2wom8ENpUebJiIkugRPpbwvvJOPxFLj1jn5WPG58Lkbt\nDQIDAQAB\n-----END PUBLIC KEY-----\n"
+		},
+		"tag": [],
+		"attachment": [
+			{
+				"type": "PropertyValue",
+				"name": "Website",
+				"value": "<a href=\"https://www.jeremiahlee.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">jeremiahlee.com/</span><span class=\"invisible\"></span></a>"
+			},
+			{
+				"type": "PropertyValue",
+				"name": "Location",
+				"value": "Stockholm, Sverige"
+			},
+			{
+				"type": "PropertyValue",
+				"name": "Pronouns",
+				"value": "he/him/his"
+			}
+		],
+		"endpoints": {
+			"sharedInbox": "https://mastodon.social/inbox"
+		},
+		"icon": {
+			"type": "Image",
+			"mediaType": "image/jpeg",
+			"url": "https://files.mastodon.social/accounts/avatars/110/793/144/133/885/678/original/9722f453bd841319.jpg"
+		},
+		"image": {
+			"type": "Image",
+			"mediaType": "image/jpeg",
+			"url": "https://files.mastodon.social/accounts/headers/110/793/144/133/885/678/original/66a8311f75cf0885.jpg"
+		}
+	}

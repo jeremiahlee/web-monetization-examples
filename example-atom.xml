@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>JeremiahLee.com</title>
+	<subtitle>Thoughts from a humanitarian and technologist living in Stockholm, Sverige.</subtitle>
+	<link rel="self" type="application/atom+xml" href="https://www.jeremiahlee.com/feeds/atom.xml"/>
+	<link rel="alternate" type="text/html" href="https://www.jeremiahlee.com/?ref=RSS"/>
+	<link rel="monetization" href="https://fynbos.me/jeremiah"/>
+	<updated>2024-09-02T19:54:03Z</updated>
+	<id>https://www.jeremiahlee.com/feeds/atom.xml</id>
+	<author>
+		<name>Jeremiah Lee</name>
+	</author>
+	<icon>https://www.jeremiahlee.com/favicon-180x180.png</icon>
+	<logo>https://www.jeremiahlee.com/favicon-768x384.png</logo>
+
+	<entry>
+		<title>How to track Web Monetization events using Plausible</title>
+		<link href="https://www.jeremiahlee.com/posts/web-monetization-events-in-plausible/?ref=RSS"/>
+		<link rel="monetization" href="https://fynbos.me/jeremiah"/>
+		<link rel="monetization" href="https://fynbos.me/erica"/>
+		<updated>2024-04-17T11:32:40Z</updated>
+		<id>https://www.jeremiahlee.com/posts/web-monetization-events-in-plausible/</id>
+		<content type="html">I wanted to know which articles on my website received payments from people with Web Monetization-enabled browsers. Using Plausible Analytics, I am able to track Web Monetization API events. …</content>
+	</entry>
+</feed>

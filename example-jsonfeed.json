@@ -1,0 +1,24 @@
+{
+	"version": "https://jsonfeed.org/version/1.1",
+	"title": "JeremiahLee.com",
+	"home_page_url": "https://www.jeremiahlee.com/",
+	"feed_url": "https://www.jeremiahlee.com/feeds/jsonfeed.json",
+	"_monetization": ["https://fynbos.me/jeremiah"],
+	"authors": [{
+		"url": "https://www.jeremiahlee.com/about/?ref=RSS",
+		"name": "Jeremiah Lee"
+	}],
+	"icon": "https://www.jeremiahlee.com/favicon-180x180.png",
+	"favicon": "https://www.jeremiahlee.com/favicon-32x32.png",
+	"items": [
+		{
+			"title": "How to track Web Monetization events using Plausible",
+			"date_published": "2021-06-14T23:11:20Z",
+			"date_modified": "2024-04-17T11:32:40Z",
+			"id": "https://www.jeremiahlee.com/posts/web-monetization-events-in-plausible/",
+			"url": "https://www.jeremiahlee.com/posts/web-monetization-events-in-plausible/?ref=RSS",
+			"_monetization": ["https://fynbos.me/jeremiah", "https://fynbos.me/erica"],
+			"content_html": "I wanted to know which articles on my website received payments from people with Web Monetization-enabled browsers. Using Plausible Analytics, I am able to track Web Monetization API events. …"
+		}
+	]
+ }

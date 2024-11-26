@@ -1,0 +1,81 @@
+{
+	"@id": "https://mastodon.social/users/jeremiahtest",
+	"@type": "https://www.w3.org/ns/activitystreams#Person",
+	"_:monetization": "https://fynbos.me/jeremiah",
+	"http://joinmastodon.org/ns#discoverable": false,
+	"http://joinmastodon.org/ns#featured": {
+		"@id": "https://mastodon.social/users/jeremiahtest/collections/featured"
+	},
+	"http://joinmastodon.org/ns#featuredTags": {
+		"@id": "https://mastodon.social/users/jeremiahtest/collections/tags"
+	},
+	"http://joinmastodon.org/ns#indexable": false,
+	"http://joinmastodon.org/ns#memorial": false,
+	"http://www.w3.org/ns/ldp#inbox": {
+		"@id": "https://mastodon.social/users/jeremiahtest/inbox"
+	},
+	"https://w3id.org/security#publicKey": {
+		"@id": "https://mastodon.social/users/jeremiahtest#main-key",
+		"https://w3id.org/security#owner": {
+			"@id": "https://mastodon.social/users/jeremiahtest"
+		},
+		"https://w3id.org/security#publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA16fdUe/SxwEffyDN7ql1\nW5jp3Yz5l+nvLWFxoy5HH+BpbogsvrMjGLojrorqW705lqq6GfUS66I/YETVHvgC\nz0yb3fj95vvCw2JW0lbvaYZAU1636SoaPEP8PAZfbtUgRjdGZtVGqFMXruEAjQMI\nYij5VnSWNGgZ1dKAt171+HX2zg/KteboyM8okw3+nzY7+3Jw2PsHynqeTVG1P89M\niO/cYJvhft9komQ23TY6m6qLu9WrakaJ311aQAouayyI2ht1gVJdXwFxTPA/cnn2\nd8UL3Tu8nzXJYPSGEqHn2wom8ENpUebJiIkugRPpbwvvJOPxFLj1jn5WPG58Lkbt\nDQIDAQAB\n-----END PUBLIC KEY-----\n"
+	},
+	"https://www.w3.org/ns/activitystreams#attachment": [
+		{
+			"@type": "http://schema.org#PropertyValue",
+			"http://schema.org#value": "<a href=\"https://www.jeremiahlee.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">jeremiahlee.com/</span><span class=\"invisible\"></span></a>",
+			"https://www.w3.org/ns/activitystreams#name": "Website"
+		},
+		{
+			"@type": "http://schema.org#PropertyValue",
+			"http://schema.org#value": "Stockholm, Sverige",
+			"https://www.w3.org/ns/activitystreams#name": "Location"
+		},
+		{
+			"@type": "http://schema.org#PropertyValue",
+			"http://schema.org#value": "he/him/his",
+			"https://www.w3.org/ns/activitystreams#name": "Pronouns"
+		}
+	],
+	"https://www.w3.org/ns/activitystreams#endpoints": {
+		"https://www.w3.org/ns/activitystreams#sharedInbox": {
+			"@id": "https://mastodon.social/inbox"
+		}
+	},
+	"https://www.w3.org/ns/activitystreams#followers": {
+		"@id": "https://mastodon.social/users/jeremiahtest/followers"
+	},
+	"https://www.w3.org/ns/activitystreams#following": {
+		"@id": "https://mastodon.social/users/jeremiahtest/following"
+	},
+	"https://www.w3.org/ns/activitystreams#icon": {
+		"@type": "https://www.w3.org/ns/activitystreams#Image",
+		"https://www.w3.org/ns/activitystreams#mediaType": "image/jpeg",
+		"https://www.w3.org/ns/activitystreams#url": {
+			"@id": "https://files.mastodon.social/accounts/avatars/110/793/144/133/885/678/original/9722f453bd841319.jpg"
+		}
+	},
+	"https://www.w3.org/ns/activitystreams#image": {
+		"@type": "https://www.w3.org/ns/activitystreams#Image",
+		"https://www.w3.org/ns/activitystreams#mediaType": "image/jpeg",
+		"https://www.w3.org/ns/activitystreams#url": {
+			"@id": "https://files.mastodon.social/accounts/headers/110/793/144/133/885/678/original/66a8311f75cf0885.jpg"
+		}
+	},
+	"https://www.w3.org/ns/activitystreams#manuallyApprovesFollowers": false,
+	"https://www.w3.org/ns/activitystreams#name": "J. Experimental Lee",
+	"https://www.w3.org/ns/activitystreams#outbox": {
+		"@id": "https://mastodon.social/users/jeremiahtest/outbox"
+	},
+	"https://www.w3.org/ns/activitystreams#preferredUsername": "jeremiahtest",
+	"https://www.w3.org/ns/activitystreams#published": {
+		"@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+		"@value": "2023-07-28T00:00:00Z"
+	},
+	"https://www.w3.org/ns/activitystreams#summary": "<p>Just testing the incredible flagship server running the nightly builds. Follow <span class=\"h-card\" translate=\"no\"><a href=\"https://alpaca.gold/@Jeremiah\" class=\"u-url mention\">@<span>Jeremiah</span></a></span> for the real me.</p>",
+	"https://www.w3.org/ns/activitystreams#tag": [],
+	"https://www.w3.org/ns/activitystreams#url": {
+		"@id": "https://mastodon.social/@jeremiahtest"
+	}
+}
